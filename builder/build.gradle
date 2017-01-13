@@ -5,7 +5,7 @@ android {
   buildToolsVersion "25.0.2"
 
   defaultConfig {
-    applicationId "com.jota.patterns.abstractfactory"
+    applicationId "com.jota.patterns.builder"
     minSdkVersion 18
     targetSdkVersion 25
     versionCode 1
