@@ -6,7 +6,7 @@
 This design patterns is all about class instantiation.
 
 * [__Abstract Factory:__](https://github.com/jotaramirez90/Android-DesignPatterns/tree/master/abstractfactory/src/main/java/com/jota/patterns/abstractfactory) Creates an instance of several families of classes.
-* __Builder:__ Separates object construction from its representation.
+* [__Builder:__](https://github.com/jotaramirez90/Android-DesignPatterns/tree/master/builder/src/main/java/com/jota/patterns/builder) Separates object construction from its representation.
 * __Factory Method:__ Creates an instance of several derived classes.
 * __Object Pool:__ Avoid expensive acquisition and release of resources by recycling object that are no longer in use.
 * __Prototype:__ A fully initialize instance to be copied or cloned.
