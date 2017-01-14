@@ -8,8 +8,8 @@ This design patterns is all about class instantiation.
 * [__Abstract Factory:__](https://github.com/jotaramirez90/Android-DesignPatterns/tree/master/abstractfactory/src/main/java/com/jota/patterns/abstractfactory) Creates an instance of several families of classes.
 * [__Builder:__](https://github.com/jotaramirez90/Android-DesignPatterns/tree/master/builder/src/main/java/com/jota/patterns/builder) Separates object construction from its representation.
 * [__Factory Method:__](https://github.com/jotaramirez90/Android-DesignPatterns/tree/master/factorymethod/src/main/java/com/jota/patterns) Creates an instance of several derived classes.
-* __Prototype:__ A fully initialize instance to be copied or cloned.
-* __Singleton:__ A class of which only a single instance can exist.
+* [__Prototype:__](https://github.com/jotaramirez90/Android-DesignPatterns/tree/master/prototype/src/main/java/com/jota/patterns/prototype) A fully initialize instance to be copied or cloned.
+* [__Singleton:__](https://github.com/jotaramirez90/Android-DesignPatterns/tree/master/singleton/src/main/java/com/jota/patterns/singleton) A class of which only a single instance can exist.
 
 # Help me
 Pull requests are more than welcome, help me and others improve this awesome library.
