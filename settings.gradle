@@ -1,1 +1,1 @@
-include ':factorymethod', ':abstractfactory', ':builder', ':prototype'
+include ':factorymethod', ':abstractfactory', ':builder', ':prototype', ':singleton'
