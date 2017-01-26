@@ -16,6 +16,12 @@ This design patterns are patterns that ease the design by identifying a simple w
 * [__Adapter:__](https://github.com/jotaramirez90/Android-DesignPatterns/tree/master/adapter/src/main/java/com/jota/patterns/adapter) Match interfaces of different classes.
 * [__Bridge:__]() Separates an object's interface from its implementation.
 
+
+# Libraries used on the sample project
+
+* [RecyclerView](https://developer.android.com/training/material/lists-cards.html?hl=en)
+* [Butterknife](https://github.com/JakeWharton/butterknife)
+
 # Help me
 Pull requests are more than welcome, help me and others improve this awesome library.
 
